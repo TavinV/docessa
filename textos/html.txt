@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Pedidos SQL</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+     <div class="container">
+        <h2>Gerador de Pedidos SQL</h2>
+        
+        <div class="form-group">
+            <label for="cliente_id">ID do Cliente</label>
+            <input type="number" id="cliente_id" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="consultor_id">ID do Consultor</label>
+            <input type="number" id="consultor_id" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="produto">Selecione o Produto</label>
+            <select id="produto" onchange="atualizarProduto()">
+                <option value="">-- Selecione um Produto --</option>
+                <!-- Produtos são preenchidos pelo JavaScript -->
+            </select>
+        </div>
+
+        <div class="form-group">
+            <label for="quantidade">Quantidade</label>
+            <input type="number" id="quantidade" step="10" required>
+        </div>
+        
+        <div class="form-group">
+            <label for="valor_unitario">Valor Unitário</label>
+            <input type="number" id="valor_unitario" readonly>
+        </div>
+        <div class="form-group">
+            <label for="subtotal">Subtotal</label>
+            <input type="number" id="subtotal" readonly>
+        </div>
+        
+        <button onclick="adicionarProduto()">Adicionar Produto</button>
+        <button onclick="gerarPedidoAutomatico()">Gerar SQL</button>
+        
+        <h3>Produtos no Pedido</h3>
+        <ul id="listaProdutos"></ul>
+        
+        <h3>Subtotal do Pedido</h3>
+        <div class="subtotal">Subtotal: R$ <span id="subtotalPedido">0.00</span></div>
+        
+        <h3>SQL Gerado</h3>
+        <pre id="resultadoSQL"></pre>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

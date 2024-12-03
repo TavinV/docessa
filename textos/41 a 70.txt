@@ -1,0 +1,1050 @@
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 41, 10, '07-07-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (41, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 42, 10, '20-08-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (42, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 43, 10, '03-07-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (43, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 44, 10, '04-07-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (44, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 45, 10, '06-08-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (45, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (11, 46, 11, '29-08-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (46, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (11, 47, 11, '27-07-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (47, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (11, 48, 11, '24-08-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (48, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (11, 49, 11, '09-07-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (49, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (11, 50, 11, '07-09-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (50, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 51, 10, '23-06-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (51, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 52, 10, '20-06-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (52, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 53, 10, '25-10-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (53, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 54, 10, '11-09-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (54, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 55, 10, '21-07-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (55, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (12, 56, 12, '04-07-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (56, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (12, 57, 12, '19-10-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (57, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (12, 58, 12, '19-10-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (58, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (12, 59, 12, '29-08-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (59, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (12, 60, 12, '24-07-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (60, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 61, 10, '10-09-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (61, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 62, 10, '28-09-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (62, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 63, 10, '09-10-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (63, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 64, 10, '29-08-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (64, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 65, 10, '07-10-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (65, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 66, 10, '03-07-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (66, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 67, 10, '11-10-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (67, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 68, 10, '05-09-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (68, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 69, 10, '30-09-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (69, 42, 194);
+
+-- Inserindo o pedido
+INSERT INTO Pedido (id_consultor, id_lista, id_cliente, data_pedido) VALUES (10, 70, 10, '06-08-2024');
+
+-- Inserindo itens do pedido
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 15, 48);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 53, 111);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 66, 51);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 21, 38);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 59, 70);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 38, 86);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 38, 69);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 41, 53);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 27, 200);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 63, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 62, 95);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 30, 11);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 50, 106);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 17, 154);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 34, 28);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 72, 127);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 5, 186);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 80, 17);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 41, 173);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 83, 55);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 45, 104);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 80, 74);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 52, 24);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 23, 94);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 3, 167);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 54, 73);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 15, 131);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 54, 163);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 83, 180);
+INSERT INTO Lista_Pedido (id_lista, id_produto, quantidade) VALUES (70, 42, 194);
+
